@@ -50,4 +50,4 @@ cd $CURDIR/gui_src/
 qmake 
 make clean
 make
-cp $CURDIR/bin/cyusb_linux /usr/local/bin
+cp $CURDIR/bin/cyusb /usr/local/bin
